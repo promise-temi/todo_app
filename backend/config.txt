@@ -1,0 +1,1 @@
+Pour configurer l'apli il faut s'assurer que python et flask sont installé puis installer toutes es dépendances. sassurer que node js soit installer puis npm run dev. 
